@@ -1,7 +1,6 @@
 # MemoryGame
 Memory Game with MVC
-
-Components:
+## Built with:
 * Swift 5
 * MVC
 * Swift API Guidelines
